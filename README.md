@@ -11,7 +11,7 @@ _decorules_ is a small Python library (requires Python ≥ 3.10) with two goals:
 ## Installation
 
 ```
-pip install decorules
+pip install git+https://github.com/FulgentMcGuffin/decorules.git
 ```
 
 ## Quick Start
