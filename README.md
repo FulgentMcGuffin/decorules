@@ -1,5 +1,7 @@
 # decorules
 
+⭐ If you find this repository useful, please **consider starring it**.
+
 ## What is it?
 
 _decorules_ is a small Python library (requires Python ≥ 3.10) with two goals:
